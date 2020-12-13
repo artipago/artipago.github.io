@@ -4,17 +4,17 @@ locale                   : "en"
 title                    : "Andrea Alamia"
 title_separator          : "-"
 name                     : "Andrea Alamia"
-description              : "Postdoctoral researcher in behavioural ecology. PhD in cognitive neuroscience. I'm also learning to engage in and promote a better science: open, inclusive, accessible; slow."
-url                      : "https://yseulthb.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Postdoctoral researcher in Computational Neuroscience. PhD in Cognitive Neuroscience."
+url                      : "https://artipago.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "yseulthb.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "artipago.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #/assets/images/header.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : #"disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "yseult-hbs-adventures" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : #"yseult-hbs-adventures" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -43,7 +43,7 @@ atom_feed:
 search                   : true
 
 # SEO Related
-google_site_verification : #"google39978f0cd28e342f.html"
+google_site_verification : "G-3MHLFB53L3" #"google39978f0cd28e342f.html"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -73,27 +73,16 @@ analytics:
   
   # Site Author
 author:
-  name             : "Yseult HB"
-  avatar           : "/assets/images/face.jpg" 
-  bio              : "Postdoctoral researcher in behavioural ecology. PhD in cognitive neuroscience. I'm also learning to engage in and promote a better science: open, inclusive, accessible; slow."
-  email            : "yseulthb@gmail.com"
-  github           : "yseulthb"
-  twitter          : "Izzie_Hb"
-  OSF              : "nd82r"
-  ResearchGate     : "Yseult_Hejja-Brichard"
-  Scholar          : "citations?user=B7sULyEAAAAJ&hl=en&oi=ao"
-  Publons          : "3229877"
-  
-#links: 
-    #- label: "OSF" 
-     # icon: "ai ai-osf" 
-      #url: "https://osf.io/nd82r"
-    #- label: "Research Gate" 
-     # icon: "fa fa-fw fa-researchgate" 
-      #url: "https://www.researchgate.net/profile/Yseult_Hejja-Brichard"
-    #- label: "My Scholar"
-     # icon: "ai ai-google-scholar"
-      #url: "https://scholar.google.com/citations?user=B7sULyEAAAAJ&hl=en&oi=ao"
+  name             : "Andrea Alamia"
+  avatar           : "/assets/images/profile.jpg" 
+  bio              : "Postdoctoral researcher in Computational Neuroscience. PhD in Cognitive Neuroscience."
+  email            : "artipago@gmail.com"
+  github           : "artipago"
+  twitter          : "Artipago"
+  OSF              : "bv3m7"
+  ResearchGate     : "Andrea_Alamia"
+  Scholar          : "citations?user=057WKLYAAAAJ&hl=it&oi=ao"
+
 
 # Reading Files
 include:

@@ -1,3 +1,3 @@
-# yseulthb.github.io
+# artipago.github.io
 Personal website
-https://yseulthb.github.io/
+https://artipago.github.io/
