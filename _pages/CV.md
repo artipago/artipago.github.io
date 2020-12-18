@@ -8,64 +8,54 @@ toc: true
 
 <img src="/assets/images/ToulouseByNight.jpg" alt="Toulouse by night"> 
 
-<!-- Available here: <a href="/pdf/cvacademic.pdf" target="_blank"><b>CV</b></a> -->
+A pdf version of my CV can be found here: <a href="/pdf/CValamia2020.pdf" target="_blank"><b>CV</b></a><br> (Last update: 16/11/2020)
 
-A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 16/11/2020)
-
-## Research and Teaching
 
 ### Academic positions
-* 2020 - Ongoing: **Postdoctoral researcher**, Centre d'Ecologie Fonctionnelle et Evolutive - [CEFE](https://www.cefe.cnrs.fr/en/) (CNRS, University of Montpellier), Montpellier, France. Supervisors: Julien Renoult, CNRS researcher and Tamra Mendelson, Professor at the University of Maryland, Baltimore County (Department of Biological Sciences).
+* 2019 - Ongoing: **Postdoctoral researcher**, Joint collaboration between : Serre Lab, Brown University, Rhode Island, USA & Centre de Recherche Cerveau et Cognition (CerCo - CNRS), Toulouse, France. <br />
+Supervisors: Dr. Thomas Serre and Dr. Rufin VanRullen– NSF CRCNS USA-France Research grant
 
-* 2015-2020: **PhD studies in Cognitive Neuroscience**, Université Paul Sabatier and [CerCo](http://cerco.cnrs.fr/en/cerco-umr5549-2/) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher. <br />
-Title of the thesis: Spatial and temporal integration of binocular disparities in primates. [[Manuscript]](https://hal.archives-ouvertes.fr/tel-02956425v1) <br>
-*My PhD project aimed to provide a better understanding of how the visual system in primates processes binocular disparities (underlying depth perception) in space and time. I also investigated the relationship between the 3D properties of the environment and neural responses. I mostly conducted functional neuroimaging studies in macaque, and I collected psychophysics measurements in human and macaque to give insight into the link between visual perception, natural statistics, and brain activity.*<br />
+* June 2019 – August. 2019: **Summer Program Intern**, RIKEN Center for Brain Science (CBS), Wako, Saitama, Japan. <br />
+Supervisor: Dr. Andrea Benucci– Laboratory for Neural circuits and behavior. <br />
 
-### Teaching experience
-* 2019-2020: **Temporary teaching assistant** (48hr), Université Toulouse Jean Jaurès, Toulouse, France<br />
-Bsc/BA Psychology - Tutorial classes in:
-   - Psychophysiology (human ethology, physiology of reproduction, prenatal development) 
+* 2017 – 2019: **Postdoctoral researcher**, Centre de Recherche Cerveau et Cognition (CerCo - CNRS), Toulouse, France  <br />
+Supervisor: Dr. Rufin VanRullen– ERC Consolidator Grant P-CYCLES.  <br />
 
-* 2015-2018: **Graduate teaching assistant** (64hr every year), Université Paul Sabatier, Toulouse, France<br />
-Bsc Biology - Practical and lab works, tutorial classes in:
-   - Behavioural ecology (mating behaviour in the guppy fish, ideal free distribution)<br />
-   - Behavioural neuroscience (pain, stress)<br />
-   - Nervous and cerebral functions (vision, cortical functions, electrophysiological techniques)<br />
-   - Neurophysiology (vestibular system)
+* 2012 – 2017: **PhD studies in Cognitive Neuroscience**, Aspirant F.R.S.-FNRS - Institute of Neuroscience, Université Catholique de Louvain (IoNS, UCL), Belgium. <br />
+Supervisors: Dr. Alexandre Zénon, Prof. Etienne Olivier, Prof. André Mouraux 
+Title of the thesis: Unconscious processing in the human brain. [[Manuscript]](https://dial.uclouvain.be/pr/boreal/object/boreal%3A187768/datastream/PDF_01/view) <br>
 
-* 2015-2016: **Volunteering teacher**, NGO “[Croissant Fertile](http://www.croissantfertile.fr/)”, Toulouse, France<br />
-Teaching French as a foreign language (FLE) to adults
+* 2006 – 2012: **Bachelor and Master degree in Biomedical Engineering**, Politecnico di Milano (Italy). <br />
 
-* **Co-supervision** of Master's students in Neuroscience <br />
-2019: Università degli studi di Trieste <br />
-2018: University of Bordeaux
+### Community Involvement 
+* Member of the TIdDLe Organization Committee. TIdDLe is a group of Toulouse based researcher interested in Deep Learning. I’m in charge of coordinating and organizing most of the scientific meetings.
+* Invited Reviewers for the journals: Journal of Neuroscience, Plos Computational Biology, NeuroImage, Frontiers in Computational Neuroscience, Frontiers in Neuroscience, Journal of Motor Behavior, PlosOne, Journal of Cognition. 
+* Founder and organizer of the DeepLearning Club at Centre de Recherche Cerveau&Cognition (CerCo), Toulouse, 2017-2019
+* Organizer of the Journal Club at Centre de Recherche Cerveau&Cognition (CerCo), Toulouse, 2019-2020
 
-**Community Involvement**
-* At the lab level: Co-creation of a Welcome Kit for new students; Student representative at the Lab Council; Organisation of the students' Lab Day and of the students' Winter School
-* At the scientific community level: Ambassador for the Center for Open Science
-
-## Education and Research Training
-
-### Education
-* 2015-2020: PhD student in Cognitive Neuroscience, Université Paul Sabatier, Toulouse, France  
-* 2015: MSc in Neuroscience, Cognition, and Behaviour – Université Paul Sabatier, Toulouse, France <!--Attended courses: Cognition, spatial cognition, sensory systems, neuroethology, collective behaviour, behavioural ecology, applied statistics-->
-* 2014: MSc in Cognitive Psychology – Université de Grenoble, France <!--Attended courses: Visual cognition, memory, neurology and neuropsychology, psycholinguistics, movement planning and control, applied statistics-->
-* 2013: Bsc in Psychology – Université de Grenoble, France & Universität Leipzig, Germany
 
 ### Research training
-* 2014-2015: Research internship, [CerCo](http://cerco.cnrs.fr/en/cerco-umr5549-2/) (Brain and Cognition Research Center), Toulouse, France<br />
-Master’s thesis: Characterisation of the cortical networks involved in 3D orientation processing in primates. Under the supervision of Benoit Cottereau and Jean-Baptiste Durand.
+* RIKEN CBS Lecture course 2019 (01/07/2019 – 05/07/2019) – RIKEN CBS – Tokyo, Japan. <br />
 
-* 2013-2014: Research internship, [LPNC](http://lpnc.univ-grenoble-alpes.fr/?lang=en) (Psychology and Cognitive Neuroscience Lab), Grenoble, France<br />
-Master’s thesis: Role of the eyes in face categorisation: Interracial eye change impacts on the other-race effect in a categorisation task. Under the supervision of Olivier Pascalis and with the help of David Meary.
+* Computational Psychiatry Course 2017 (28/08/2017 – 01/09/2017) – University of Zurich & ETH Zurich, Switzerland. <br />
 
-* 2014 (January-February): Internship in Neuropsychology, Hospital of Grenoble, France<br />
-Clinical interviews and cognitive assessments of patients with movement disorders. Under the supervision of Eugénie Lhommée, Neuropsychologist.
+* International Deep Learning Summer School 2017 (17/07/2017 – 21/07/2017) – University of Deusto – Bilbao, Spain <br />
 
-* 2013 (April-July): Research assistant, [MPI for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/), Leipzig, Germany<br />
-Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations and statistical analysis. Under the supervision of Natacha Mendès. A [paper](https://www.nature.com/articles/s41562-017-0264-5) was published by Natacha Mendès and collaborators!
+* Athens Course (11/03/2011 – 19/03/2011) Universidad Politecnica de Madrid (UPM), Spain – 7.5/10
+“Exact String Pattern Recognition”- Prof. Francisco Gomez Martin <br />
 
 
-## Technical Skills and Languages
-* Computing skills: Matlab, SPM12, R programming, Python (intermediate), EventIDE (stimulus presentation software), LaTeX, Adobe Illustrator, Photoshop, Zotero, Github
-* Languages: French (native), English (fluent), German (good command in speaking, level B2), Spanish (good command in speaking, level B1), Italian (level A2)
+## Technical Skills 
+* Computing skills: Matlab, Python (Pytorch, Numpy), R (basic), C/C++ (basic)
+* Working experience with EEG, TMS, Eye tracking and fMRI.
+
+## Languages
+* Languages: Italian (native), English (fluent), French (level B2), Spanish (level A2)
+
+## Miscellaneous
+* Classical Guitar - Intermediate Accomplishment (2010) at “Conservatorio di Milano - Giuseppe Verdi”
+* Music Theory and ‘Solfeggio’ (2007) at “Istituto Pareggiato Vittadini di Pavia”
+* Black belt in Judo and former competitor athlete
+* Breakdance teacher at “SalsaSwing” (BovisioMasciago) and “PalazzoloSport” (Palazzolo Milanese) - (2006 - 2011)
+* Experienced traveler and amateur mountain excursionist (summit peaks: Hoverla - 2061mt, Ukraine 2015; Kota Kinabalu -4095mt, Malaysia 2016; PoonHill- 3193, Nepal 2017) - all pictures in this website were shot during these hikes.
+
