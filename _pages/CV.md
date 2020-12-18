@@ -6,12 +6,12 @@ toc: true
 ---
 {% include toc %}
 
-<img src="/assets/images/ToulouseByNight.jpg" alt="Toulouse by night"> 
+<img src="/assets/images/CVpic.jpg" alt="climbing up"> 
 
-A pdf version of my CV can be found here: <a href="/pdf/CValamia2020.pdf" target="_blank"><b>CV</b></a><br> (Last update: 16/11/2020)
+A pdf version of my CV can be found here: <a href="/pdf/CValamia2020.pdf" target="_blank"><b>CV</b></a><br> (Last update: 12/2020)
 
 
-### Academic positions
+## Academic positions
 * 2019 - Ongoing: **Postdoctoral researcher**, Joint collaboration between : Serre Lab, Brown University, Rhode Island, USA & Centre de Recherche Cerveau et Cognition (CerCo - CNRS), Toulouse, France. <br />
 Supervisors: Dr. Thomas Serre and Dr. Rufin VanRullen– NSF CRCNS USA-France Research grant
 
@@ -27,14 +27,14 @@ Title of the thesis: Unconscious processing in the human brain. [[Manuscript]](h
 
 * 2006 – 2012: **Bachelor and Master degree in Biomedical Engineering**, Politecnico di Milano (Italy). <br />
 
-### Community Involvement 
+## Community Involvement 
 * Member of the TIdDLe Organization Committee. TIdDLe is a group of Toulouse based researcher interested in Deep Learning. I’m in charge of coordinating and organizing most of the scientific meetings.
 * Invited Reviewers for the journals: Journal of Neuroscience, Plos Computational Biology, NeuroImage, Frontiers in Computational Neuroscience, Frontiers in Neuroscience, Journal of Motor Behavior, PlosOne, Journal of Cognition. 
 * Founder and organizer of the DeepLearning Club at Centre de Recherche Cerveau&Cognition (CerCo), Toulouse, 2017-2019
 * Organizer of the Journal Club at Centre de Recherche Cerveau&Cognition (CerCo), Toulouse, 2019-2020
 
 
-### Research training
+## Research training
 * RIKEN CBS Lecture course 2019 (01/07/2019 – 05/07/2019) – RIKEN CBS – Tokyo, Japan. <br />
 
 * Computational Psychiatry Course 2017 (28/08/2017 – 01/09/2017) – University of Zurich & ETH Zurich, Switzerland. <br />
