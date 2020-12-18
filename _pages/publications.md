@@ -2,9 +2,7 @@
 layout: single
 permalink: /publications/
 classes: wide
-toc: true
 ---
-{% include toc %}
 
 <img src="/assets/images/publications.jpg" alt="My research"> 
 
