@@ -3,13 +3,16 @@ layout: single
 permalink: /projects/
 title: "Personal research projects"
 classes: wide
+toc: true
 ---
+{% include toc %}
 
 <img src="/assets/images/researchProject.jpg" alt="My projects"> 
 
-An overview of my Research Interests
+# Research Interests
+An overview of my Research Interests and related works.
 
-### Career history: Interviews of senior researchers <br/>
+## Cognitive Neuroscience : Unconscious Learning <br/>
 *The idea is to interview several senior researchers with similar questions in order to give them space to reflect upon their own career in an open and sincere manner and to show the diversity of academic paths to the younger generation. The interview transcriptions will be made available on the [Echoscience](https://www.echosciences-sud.fr/) platform for the French version and on this website for the English version.* <br/>
 **NEWS**: :microphone: Yves Trotter, CNRS researcher in Toulouse, France will be our first guest! 
 
