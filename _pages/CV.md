@@ -12,7 +12,9 @@ A pdf version of my CV can be found here: <a href="/pdf/CValamia2020git.pdf" tar
 
 
 ## Academic positions
-* 2019 - Ongoing: **Postdoctoral researcher**, Joint collaboration between : Serre Lab, Brown University, Rhode Island, USA & Centre de Recherche Cerveau et Cognition (CerCo - CNRS), Toulouse, France. <br />
+* From 2021: **CNRS researcher (CRCN)**, In the Centre de Recherche Cerveau et Cognition (CerCo - CNRS), Toulouse, France. <br />
+
+* 2019 - 2021: **Postdoctoral researcher**, Joint collaboration between : Serre Lab, Brown University, Rhode Island, USA & Centre de Recherche Cerveau et Cognition (CerCo - CNRS), Toulouse, France. <br />
 Supervisors: Dr. Thomas Serre and Dr. Rufin VanRullen– NSF CRCNS USA-France Research grant
 
 * June 2019 – August. 2019: **Summer Program Intern**, RIKEN Center for Brain Science (CBS), Wako, Saitama, Japan. <br />
