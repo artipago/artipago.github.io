@@ -1,8 +1,8 @@
 ---
 layout: single
-permalink: /travels/
+permalink: /personal/
 classes: wide
-parent: personal
+has_children: true 
 ---
 
 <img src="/assets/images/12401642_10206892578207911_4324934037271679597_o.jpg" alt="About me"> 

@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /travels/
+permalink: /notes/
 classes: wide
 parent: personal
 ---
