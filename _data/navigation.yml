@@ -6,10 +6,3 @@ main:
     url: /CV/
   - title: "Publications"
     url: /publications/  
-  - title: "Personal"
-    url: /personal/ 
-    sublinks:
-      - title: "travels"
-        url: /travels/ 
-      - title: "notes"
-        url: /notes/ 
