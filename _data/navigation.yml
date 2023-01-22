@@ -7,5 +7,8 @@ main:
   - title: "Publications"
     url: /publications/  
   - title: "Personal"
-    url: /travels/
-    url: /publications/
+    subfolderitems:
+    - name: "travels"
+      url: /travels/
+    - name: "pubs"
+      url: /publications/
