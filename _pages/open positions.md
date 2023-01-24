@@ -29,7 +29,6 @@ Salary depends on experience and will be determined following CNRS guidelines. <
 <br> 
 To apply, please send a CV, including the name of two potential references, and a summary of research interests to Andrea Alamia (andrea.alamia at cnrs.fr). Review of applications will remain ongoing until the position is filled. <br> 
 
-
- ### Internship & fellowship
+### Internships & fellowships
 
 Please don't hesitate to get in touch if you are interested in doing an internship in the team at <a href="http://cerco.cnrs.fr/">CerCo</a> in Toulouse (France). <br> 
