@@ -31,4 +31,4 @@ To apply, please send a CV, including the name of two potential references, and 
 
 ### Internships & fellowships
 
-Please don't hesitate to get in touch if you are interested in doing an internship in the team at <a href="http://cerco.cnrs.fr/">CerCo</a> in Toulouse (France). <br> 
+Please don't hesitate to get in touch if you are interested in doing an internship in our team at <a href="http://cerco.cnrs.fr/">CerCo</a>, or if you are considering joining the lab with a fellowship! <br> 
