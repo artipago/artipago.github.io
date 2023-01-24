@@ -5,7 +5,7 @@ classes: wide
 has_children: true 
 ---
 
-<img src="/assets/images/12401642_10206892578207911_4324934037271679597_o.jpg" alt="About me"> 
+<img src="/assets/images/flowersNepal.jpg" alt="About me"> 
       
 
 ### Postdoc in Computational Neuroscience
