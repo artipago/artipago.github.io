@@ -21,7 +21,8 @@ The project is part of an ERC starting grant investigating the role of oscillato
 <ins>Requirements</ins> <br> 
 •	Applicants should hold a PhD in computational neuroscience, computer science, engineering, cognitive science, or similar. <br> 
 •	Ability to work independently, developing ideas and interests within the project's scope. <br> 
-•	A solid mathematical background and excellent computing skills, including programming (e.g., MATLAB, Python). Experience with system theory, models of cortical circuits, and knowledge of neural oscillations are not strictly necessary but highly appreciated.
+•	A solid mathematical background and excellent computing skills, including programming (e.g., MATLAB, Python).  <br> 
+•	Experience with system theory, models of cortical circuits, and knowledge of neural oscillations are not strictly necessary but highly appreciated. <br> 
 •	Fluent in English in both speaking and writing. Knowledge of French is not required. <br> 
 <br> 
 The position will run for one year and is renewable for up to 3 years; its starting date is flexible (between March and October 2023). 
