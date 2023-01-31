@@ -8,7 +8,7 @@ toc: true
 
 <img src="/assets/images/CVpic.jpg" alt="climbing up"> 
 
-A pdf version of my CV can be found here: <a href="/pdf/CValamia2020git.pdf" target="_blank"><b>CV</b></a><br> (Last update: 12/2020)
+A pdf version of my CV can be found here: <a href="/pdf/CValamia2022.pdf" target="_blank"><b>CV</b></a><br> (Last update: 01/2023)
 
 
 ## Academic positions
