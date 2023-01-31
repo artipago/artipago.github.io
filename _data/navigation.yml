@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: 
+  - title: "Science-Do"
+    url: /Science-Do/
   - title: "CV"
     url: /CV/
   - title: "Publications"
