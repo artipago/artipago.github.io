@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /open positions/
+permalink: /Science-Do/
 classes: wide
 has_children: true 
 ---
