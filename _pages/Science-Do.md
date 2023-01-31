@@ -5,7 +5,7 @@ classes: wide
 has_children: true 
 ---
 
-<img src="/assets/images/mMMYgfYk.jpg" alt="Science-Do"> 
+<img src="/assets/images/mMMYgfYk.jpeg" alt="Science-Do"> 
       
 
 ### Science-Do
