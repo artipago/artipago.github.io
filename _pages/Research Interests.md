@@ -4,7 +4,6 @@ permalink: /research_interests/
 classes: wide
 has_children: true 
 ---
-{% include toc %}
 
 <img src="/assets/images/research.jpg" alt="looking up"> 
 
