@@ -4,9 +4,12 @@ main:
     url: 
   - title: "Science-Do"
     url: /Science-Do/
+  - title: "Research Interests"
+    url: /research_interests/
   - title: "CV"
     url: /CV/
   - title: "Publications"
     url: /publications/  
   - title: "Open Positions"
     url: /open positions/  
+
