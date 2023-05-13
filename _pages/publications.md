@@ -17,7 +17,7 @@ classes: wide
 * Vaishnav M., Cadene R., **Alamia A.**, D Linsley, VanRullen R., Serre T.(2022) “Understanding the computational demands underlying visual reasoning” <ins>Neural Computation</ins>  <b>
 * Van Bree S., **Alamia A.**, Zoefel B. (2022) “Oscillations or not- why we can and need to know” <ins>European Journal of Neuroscience</ins>   <b>
 * Choksi M., Mozafari M., O’May C., Ador B., **Alamia A.**, VanRullen R. (2021) “Predify: augmenting deep neural networks with brain-inspired predictive coding dynamics” <ins>Advances in Neural Information Processing System 34, (NeurIPS)</ins>  <b>
-VanRullen R., * **Alamia A.** (2021) “GattaNet: Global agreement for convolutional neural networks” <ins>ICANN2021</ins>  <b>
+* VanRullen R., * **Alamia A.** (2021) “GattaNet: Global agreement for convolutional neural networks” <ins>ICANN2021</ins>  <b>
 * **Alamia A.**,  Luo C., Ricci M., Kim J., Serre T., VanRullen R. (2020) " Differential involvement of EEG oscillatory components in sameness vs. spatial-relation visual reasoning tasks" <ins>eNeuro</ins>  10.1523/ENEURO .0267-20.2020 <b>
 * Luo C., VanRullen R., **Alamia A.** (2021) “Conscious perception modulates perceptual echoes” Neuroscience of Consciousness  
 * Alamia A., Gauducheau V., Paisios D., VanRullen R. (2020) "Comparing feedforward and recurrent neural network architecture with human behavior in Artificial Grammar Learning" <ins>Scientific Reports</ins> 10(1), 1-15 <b>
