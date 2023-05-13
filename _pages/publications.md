@@ -12,8 +12,16 @@ classes: wide
 
 ***Peer-reviewed journal articles***
 
-* **Alamia A.**,  Timmermann C., Nutt D.J., VanRullen R., Carhart-Harris R. (2020) "DMT alters cortical travelling waves" <ins>eLife</ins> 9:e59784 <b>
+* **Alamia A.**, Lucie Terral, Malo Renaud D’ambra., VanRullen R. (2023) “Distinct role of forward and backward alpha-band waves in spatial attention”  <ins>Elife</ins> 12, e85035 <b>
+* **Alamia A.**, Mozafari M., Choksi M., VanRullen R. (2023) “On the role of feedback in visual processing: a predictive coding perspective” <ins>Neural Networks</ins> 157, 280-287  <b>
+* Vaishnav M., Cadene R., **Alamia A.**, D Linsley, VanRullen R., Serre T.(2022) “Understanding the computational demands underlying visual reasoning” <ins>Neural Computation</ins>  <b>
+* Van Bree S., **Alamia A.**, Zoefel B. (2022) “Oscillations or not- why we can and need to know” <ins>European Journal of Neuroscience</ins>   <b>
+* Choksi M., Mozafari M., O’May C., Ador B., **Alamia A.**, VanRullen R. (2021) “Predify: augmenting deep neural networks with brain-inspired predictive coding dynamics” <ins>Advances in Neural Information Processing System 34, (NeurIPS)</ins>  <b>
+VanRullen R., * **Alamia A.** (2021) “GattaNet: Global agreement for convolutional neural networks” <ins>ICANN2021</ins>  <b>
 * **Alamia A.**,  Luo C., Ricci M., Kim J., Serre T., VanRullen R. (2020) " Differential involvement of EEG oscillatory components in sameness vs. spatial-relation visual reasoning tasks" <ins>eNeuro</ins>  10.1523/ENEURO .0267-20.2020 <b>
+* Luo C., VanRullen R., **Alamia A.** (2021) “Conscious perception modulates perceptual echoes” Neuroscience of Consciousness  
+* Alamia A., Gauducheau V., Paisios D., VanRullen R. (2020) "Comparing feedforward and recurrent neural network architecture with human behavior in Artificial Grammar Learning" <ins>Scientific Reports</ins> 10(1), 1-15 <b>
+* **Alamia A.**,  Timmermann C., Nutt D.J., VanRullen R., Carhart-Harris R. (2020) "DMT alters cortical travelling waves" <ins>eLife</ins> 9, e59784 <b>
 * Pang Z., **Alamia A.**, VanRullen R. (2020) "Turning the stimulus on and off changes the direction of alpha travelling waves" <ins>eNeuro</ins> , 7(6), ENEURO.0218-20.2020 <b>
 * Choksi M., Mozafari M., O’May C., Ador B., **Alamia A.**, VanRullen R. (2020) "Brain-inspired predictive coding dynamic improve the robustness of deep neural networks" <ins>2nd SVRHM Workshop, NeurIPS 2020</ins>  <b>
 * **Alamia A.**, VanRullen R. (2019) "Alpha oscillations and travelling waves: signatures of predictive coding?" <ins>PLOSBiology</ins> , 17(10), e3000487 <b>
@@ -36,18 +44,3 @@ classes: wide
 * Torta D., Tatu M.K., Cotroneo D., **Alamia A.**, Folegatti A., Trojan J.  (2016) "Prism adaptation contrasts perceptual habituation for repetitive somatosensory stimuli". <ins>Acta Psychologica</ins> <b>
 * Zenon A., Klein PA., **Alamia A.**, Boursoit F., Wihelm E., Duque J. (2015) "Increased Reliance on Value-based Decision Processes Following Motor Cortex Disruption". <ins>Brain Stimulation</ins> 8(5):957-964. <b>
 * Zenon A., Corneil B.D., **Alamia A.**, Filali-Sadouk N., Olivier E. (2014) "Counterproductive Effect of Saccadic Suppression during Attention Shifts". <ins>PLoS ONE</ins> 9(1):e86633. <b>
-
-***Poster presentations***
-* "Which neural networks match human performance in artificial grammar learning”– **A. Alamia**, V. Gauducheau, D. Paisios, R. VanRullen –  “Computational Cognitive Neuroscience”, Berlin September, 2019 <b>
-* "Automatic regularization of second-order Wienere kernels interacting corollary discharges”– D. Lyamzin, **A. Alamia**, R. Aoki, M. Abdolrahmani, A. Benucci  –  “Neuro2019”, Niigata July, 2019 <b>
-* "Differential involvement of EEG oscillations in identity vs spatial-relation reasoning tasks”– **A. Alamia**, Canhuang Luo, Matthew Ricci, Thomas Serre, R. VanRullen –  “Vision Science Society”, St. Pete May, 2019 <b>
-* "Predictive coding produces alpha-band rhythmic travelling waves”– **A. Alamia**, R. VanRullen –  “Conference on Cognitive Computational Neuroscience”, Philadelphia September, 2018 <b>
-* "Non-Bayesian weighting of implicit and explicit information in a motion discrimination task”– **A. Alamia**, V. Moens, E. Olivier, A. Zenon –  “Cognitive Neuroscience Meeting”, New York April, 2016 <b>
-* "A novel implicit associative learning framework : validation, role of attention and relation to Bayesian decision making”– **A. Alamia**, A.Cleeremans, E. Olivier, A. Zenon –  “Society for Neuroscience”, Chicago October, 2015 <b> 
-* "New method to identify chunks finds no evidence for concatenation”– **A. Alamia**, O. Solopchuk, E. Olivier, A. Zenon –  “Belgian Society for Neuroscience”, Moens May, 2015 <b> 
-* "Implicit Learning: a new design to unveil the unconscious brain”– **A. Alamia**, J.J. Orban de Xivry, A.Cleeremans, E. Olivier, A. Zenon –  “Neuronus”, Krakow April, 2015 <b> 
-* "Kinematics of motor sequence performance in the presence of implicit and explicit structure”– O. Solopchuk, **A. Alamia**, E. Olivier, JJ.de Xivry, A. Zenon –  “Neuronus”, Krakow April, 2015 <b>  
-* "Implicit Learning: a stimulus-response framework”– **A. Alamia**, J.J. Orban de Xivry, E. Olivier, A. Zenon – “Neuro-cognitive mechanisms of conscious and unconscious visual perception”, Delmenhorst July, 2014 and 9th FENS Forum of Neuroscience, Milano, July, 2014 <b>
-* " Implicit statistical learning and pupil size: an untold love story” – **A. Alamia**, E. Olivier, A. Zenon- “Belgian Brain Council 2014”- Ghent, October 24, 2014 <b> 
-* "Allocation of visual attention during the learning of first- and second-order statistics of a dynamic environment”– **A. Alamia**, E. Olivier, A. Zenon- “Rovereto Attention Workshop”  - Rovereto, October 24, 2013 <b>
-
