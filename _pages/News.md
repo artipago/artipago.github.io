@@ -19,7 +19,7 @@ An interesting commentary in <ins>Journal of Cognitive Neuroscience</ins> writte
 <br> 
 
 ### Febrary 2023 - Distinct roles of forward and backward alpha-band waves in spatial visual attention
-New paper in <ins>eLife</ins>, where we explore how traveling waves are modulated by visual selective attention. Analysing three different datasets, we were able to disentangle alpha-band top-down and bottom-up traveling waves, demonstrating that they are possibly involved in different mechanisms. <a href="https://elifesciences.org/articles/85035">Here</a> the paper, with the previous help of Malo and Lucie, and the collaboration of Rufin VanRullen. <br>
+New paper in <ins>eLife</ins>, where we explore how traveling waves are modulated by visual selective attention. Analysing three different datasets, we were able to disentangle alpha-band top-down and bottom-up traveling waves, demonstrating that they are possibly involved in different mechanisms. <a href="https://elifesciences.org/articles/85035">Here</a> the paper, with the precious help of Malo and Lucie, and the collaboration of Rufin VanRullen. <br>
 <br> 
 
 ### Novemeber 2022 - ERC-Starting Grant OSCI-PRED funded! 
@@ -28,5 +28,5 @@ You can find more information about the project <a href="https://cordis.europa.e
 <br> 
 
 ### October 2022 - On the role of feedback in image recognition under noise and adversarial attacks: A predictive coding perspective
-New paper in <ins>Neural Networks</ins>, where we investigated the role of the feedback in deep neural networks using a Predictive Coding implementation. Building on our previous work (using the library 'Predify', published at NeurIPS 2021, check it out <a href="https://proceedings.neurips.cc/paper/2021/hash/75c58d36157505a600e0695ed0b3a22d-Abstract.html">here</a>), we show how the hyperparameters controling the amount of feedback varies as a function of the noise in the image. We believe these results will be of interest for both Computer Scientists and Neuroscientists. <a href="https://www.sciencedirect.com/science/article/pii/S0893608022004166">Here</a> ) the paper, in collaboration with Milad Mozafari, Bhavin Choksi and Rufin VanRullen. <br>
+New paper in <ins>Neural Networks</ins>, where we investigated the role of the feedback in deep neural networks using a Predictive Coding implementation. Building on our previous work (using the library 'Predify', published at NeurIPS 2021, check it out <a href="https://proceedings.neurips.cc/paper/2021/hash/75c58d36157505a600e0695ed0b3a22d-Abstract.html">here</a>), we show how the hyperparameters controling the amount of feedback varies as a function of the noise in the image. We believe these results will be of interest for both Computer Scientists and Neuroscientists. <a href="https://www.sciencedirect.com/science/article/pii/S0893608022004166">Here</a> the paper, in collaboration with Milad Mozafari, Bhavin Choksi and Rufin VanRullen. <br>
 <br> 
