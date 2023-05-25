@@ -5,15 +5,27 @@ classes: wide
 has_children: true 
 ---
 
-<img src="/assets/images/research.jpg" alt="looking up"> 
+Below some news about the team! <br> 
 
-The team works on Computational Neuroscience using different approaches, ranging from **experimental** (EEG, pupillometry, psychophysics) to **computational** methods (spiking and deep networks, ODEs). <br> 
+## 22 of May 2023 - Presentation at Pint of Science
+Andrea presented (in French!!) some of the team's work about the connection between Neuroscience and Artificial Intelligence. The main idea was to show how the two fields can benefit from each other. Big thank to the <a href="https://blog.incognu.fr/">Association Incognu</a> for the great organization! 
+<img style="float: left;" src="/assets/images/PoS01.jpg" > 
+<img style="float: right;" src="/assets/images/PoS02.jpg" > 
 <br> 
-Our current main goal is to understand the role of brain oscillations and travelling waves within the Predictive Coding framework. The key idea is to understand whether Predictive Coding can be a unifying framework to describe the role of travelling waves in distinct cognitive functions. <br> 
-<br> **We aim to address this question via multiscale, computational models based on Predictive Coding principles to characterize the role of oscillatory waves in cognition.** <br> 
+
+## May 2023 - A Traveling Waves Perspective on Temporal Binding
+An interesting commentary in <ins>Journal of Cognitive Neuroscience</ins> written with Rufin, where we explore how traveling waves may be involved in Temporal Binding. More broadly, we had fun envisioning different scenarios, disentangling travelling and standing waves, and cortico-cortical and thalamo-cortical interactions in the generation of travelling waves. <a href="https://direct.mit.edu/jocn/article-abstract/doi/10.1162/jocn_a_02004/115974/A-Traveling-Waves-Perspective-on-Temporal-Binding">Here</a> the paper. 
 <br> 
-One goal is to move the field toward a more integrative and holistic interpretation of brain dynamics: the core idea is to apply the same principles at different scales to explain distinct cognitive functions. <br> Another outcome of our approach is to interpret oscillations as travelling waves, considering both their temporal and spatial dimensions.<br> 
+
+## Febrary 2023 - Distinct roles of forward and backward alpha-band waves in spatial visual attention
+New paper in <ins>eLife</ins>, where we explore how traveling waves are modulated by visual selective attention. Analysing three different datasets, we were able to disentangle alpha-band top-down and bottom-up traveling waves, demonstrating that they are possibly involved in different mechanisms. <a href="https://elifesciences.org/articles/85035">Here</a> the paper, with the previous help of Malo and Lucie, and the collaboration of Rufin VanRullen. 
 <br> 
-Most of the current work is supported by the European ERC Starting grant ‘OSCI-PRED’, started in March 2023. <br> 
-Abstract:
- <em>« One of the most exciting yet puzzling questions in Neuroscience is how the brain coordinates the activity between different areas, integrating distinct representations into conscious percepts and thoughts. For decades neuroscientists have investigated how the brain orchestrates diverse regions’ activity, pointing at oscillations as one of the key mechanisms involved in such a process. However, previous research has mainly focused on the temporal aspect of oscillatory dynamics, largely overlooking how oscillations propagate through the brain. Although rhythmic traveling waves have recently gained renewed interest, their functional role and relation to cognitive functions remain largely unknown. In this project, I will address this fundamental question: what is the role of oscillatory traveling waves in brain dynamics? I plan to take on this challenge using a multiscale computational approach, modeling neural dynamics within and between cortical regions, as well as cortical-thalamic interactions. Importantly, the novelty of this approach consists in framing the model in the light of Predictive Coding principles, to test the compelling yet striking hypothesis that traveling waves encode Predictions and Prediction-Errors. The results of the simulations will be compared against experimental recordings in human participants to validate and assess the model’s predictions. Lastly, some implementations will turn into deep learning architectures, to test their dynamics in visual tasks while improving current models of artificial vision. All in all, this proposal can significantly advance our understanding of the neurophysiological mechanisms involved in sensory and cognitive functions, testing whether and how oscillatory traveling waves are a critical mechanism in neural dynamics, and producing fundamental results in the scientific field and future technological applications. »<em>
+
+## Novemeber 2022 - ERC-Starting Grant OSCI-PRED funded! 
+We are thrilled to announced that the OSCI-PRED project was funded for around 1.4 milion euro by the European Research Council! The projet will officially begin on March 2023 for 5 years. <br> 
+You can find more information about the project <a href="https://cordis.europa.eu/project/id/101075930/">here</a>  
+<br> 
+
+## October 2022 - On the role of feedback in image recognition under noise and adversarial attacks: A predictive coding perspective
+New paper in <ins>Neural Networks</ins>, where we investigated the role of the feedback in deep neural networks using a Predictive Coding implementation. Building on our previous work (using the library 'Predify', published at NeurIPS 2021, check it out <a href="https://proceedings.neurips.cc/paper/2021/hash/75c58d36157505a600e0695ed0b3a22d-Abstract.html">here</a>), we show how the hyperparameters controling the amount of feedback varies as a function of the noise in the image. We believe these results will be of interest for both Computer Scientists and Neuroscientists. <a href="https://www.sciencedirect.com/science/article/pii/S0893608022004166">Here</a> ) the paper, in collaboration with Milad Mozafari, Bhavin Choksi and Rufin VanRullen. 
+<br> 

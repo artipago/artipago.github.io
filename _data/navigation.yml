@@ -4,12 +4,12 @@ main:
     url: 
   - title: "Science-Do"
     url: /Science-Do/
-  - title: "Research Interests"
-    url: /research_interests/
+  - title: "Research Interests & Publications"
+    url: /research_interests_publications/
   - title: "People"
     url: /People/
-  - title: "Publications"
-    url: /publications/  
+  - title: "News"
+    url: /News/  
   - title: "Open Positions"
     url: /open positions/  
 
