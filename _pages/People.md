@@ -7,9 +7,6 @@ has_children: true
 
 
 ## Current team members. 
-<br> 
-<br> 
-
 <img style="float: right;" src="/assets/images/AlamiaRound.png" alt="People"  width="150" height="150">  **Andrea Alamia**, <ins>Principal Investigator</ins>. Interested in understanding whether Bayesian inference and Predictive Coding could tell us all the secrets of the brain. Also into traveling, learning, and sport (currently at the gym, previously judo and breakdance). Big fan of Asimov's books (all of them!), historical fictions and dinosaurs. For more information about my past experiences, here my [CV page](/CV.md). <br> 
 <br> 
 <img style="float: right;" src="/assets/images/LeslieRound.png" alt="People"  width="150" height="150">  **Leslie Marie-Louise**, <ins>Project Manager</ins>.
@@ -24,8 +21,8 @@ I have a background in neuroscience and neuropsychology. I worked as a research 
 **Asmae Belmahi**, <ins>M2 student</ins>. <br> 
 **Nathan Gaubil**, <ins>M2 student</ins>. Co-supervised with Martin Giurfa.<br> 
 **Yifan Zeng**, <ins>M1 student</ins>. <br> 
-**Malo Renaud D’Ambra**, <ins>M2 student</ins>. Co-supervised with Rufin VanRullen.<br> 
-**Lucie Terral**, <ins>M2 student</ins>. Co-supervised with Rufin VanRullen.<br> 
-**Dimitri Paisios**, <ins>M2 student</ins>. Co-supervised with Rufin VanRullen.<br> 
+**Malo Renaud D’Ambra**, <ins>M1 student</ins>. Co-supervised with Rufin VanRullen.<br> 
+**Lucie Terral**, <ins>M1 student</ins>. Co-supervised with Rufin VanRullen.<br> 
+**Dimitri Paisios**, <ins>M1 student</ins>. Co-supervised with Rufin VanRullen.<br> 
 **Victor Gauducheau**, <ins>M2 student</ins>. Co-supervised with Rufin VanRullen.<br> 
 
