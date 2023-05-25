@@ -23,7 +23,7 @@ New paper in <ins>eLife</ins>, where we explore how traveling waves are modulate
 <br> 
 
 ### Novemeber 2022 - ERC-Starting Grant OSCI-PRED funded! 
-We are thrilled to announced that the OSCI-PRED project was funded for around 1.4 milion euro by the European Research Council! The projet will officially begin on March 2023 for 5 years. <br> 
+We are thrilled to announce that the OSCI-PRED project was funded for around 1.4 milion euro by the European Research Council! The projet will officially begin on March 2023 for 5 years. <br> 
 You can find more information about the project <a href="https://cordis.europa.eu/project/id/101075930/">here</a>  <br>
 <br> 
 
