@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /news/
+permalink: /News/
 classes: wide
 has_children: true 
 ---
