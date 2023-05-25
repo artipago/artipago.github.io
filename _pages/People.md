@@ -6,7 +6,8 @@ has_children: true
 ---
 
 
-Below the current team members. <br> 
+## Current team members. 
+<br> 
 <br> 
 
 <img style="float: right;" src="/assets/images/AlamiaRound.png" alt="People"  width="150" height="150">  **Andrea Alamia**, <ins>Principal Investigator</ins>. Interested in understanding whether Bayesian inference and Predictive Coding could tell us all the secrets of the brain. Also into traveling, learning, and sport (currently at the gym, previously judo and breakdance). Big fan of Asimov's books (all of them!), historical fictions and dinosaurs. For more information about my past experiences, here my [CV page](/CV.md). <br> 
@@ -17,4 +18,14 @@ I have a background in neuroscience and neuropsychology. I worked as a research 
 <img style="float: right;" src="/assets/images/XiaoqiRound.png" alt="People"  width="150" height="150">  **Xiaoqi Xu**, <ins>PostDoc</ins>. I am a post-doc working on computational models to explain the functional role of travelling waves from a Predictive Coding point of view. My PhD work at ISAE SUPAERO focused on using mathematical approaches to decode mental states from EEG signals in the context of brain-computer interfaces. Before that I studied pure mathematics at Université Paris-Saclay and artificial intelligence at Ecole normale supérieure Paris-Saclay. <br> 
 <br> 
 <img style="float: right;" src="/assets/images/BhavinRound.png" alt="People"  width="150" height="150">  **Bhavin Choksi**, <ins>PostDoc</ins>. I am interested in understanding networks using a special pair of glasses: one which has a machine learning lens on one and neuroscience on the other. Specifically, I am interested in building networks that are more biological and in turn using them and their properties to get a peek into the human brain.  In my free time, I am just trying to wrap my head around the fact that cheese can also be eaten as a dessert. <br> 
+
+## Past team members. 
+**Can Pouliquen**, <ins>M2 student</ins>. Co-supervised with Rufin VanRullen.<br> 
+**Asmae Belmahi**, <ins>M2 student</ins>. <br> 
+**Nathan Gaubil**, <ins>M2 student</ins>. Co-supervised with Martin Giurfa.<br> 
+**Yifan Zeng**, <ins>M1 student</ins>. <br> 
+**Malo Renaud D’Ambra**, <ins>M2 student</ins>. Co-supervised with Rufin VanRullen.<br> 
+**Lucie Terral**, <ins>M2 student</ins>. Co-supervised with Rufin VanRullen.<br> 
+**Dimitri Paisios**, <ins>M2 student</ins>. Co-supervised with Rufin VanRullen.<br> 
+**Victor Gauducheau**, <ins>M2 student</ins>. Co-supervised with Rufin VanRullen.<br> 
 
