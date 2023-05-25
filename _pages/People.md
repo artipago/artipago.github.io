@@ -9,7 +9,7 @@ has_children: true
 Below the current team members. <br> 
 <br> 
 
-<img style="float: right;" src="/assets/images/AlamiaRound.png" alt="People"  width="150" height="150">  **Andrea Alamia**, <ins>Principal Investigator</ins>. Interested in understanding whether Bayesian inference and Predictive Coding could tell us all the secrets of the brain. For more information about my past experiences, [here](/CV.md) my CV.   <br> 
+<img style="float: right;" src="/assets/images/AlamiaRound.png" alt="People"  width="150" height="150">  **Andrea Alamia**, <ins>Principal Investigator</ins>. Interested in understanding whether Bayesian inference and Predictive Coding could tell us all the secrets of the brain. Also into traveling, learning, and sport (currently at the gym, previously judo and breakdance). Big fan of Asimov's books (all of them!), historical fictions and dinosaurs. For more information about my past experiences, here my [CV page](/CV.md). <br> 
 <br> 
 <img style="float: right;" src="/assets/images/LeslieRound.png" alt="People"  width="150" height="150">  **Leslie Marie-Louise**, <ins>Project Manager</ins>.
 I have a background in neuroscience and neuropsychology. I worked as a research assistant at the babylab of the École normale supérieure in Paris. I have always been fascinated by how the brain works. The neural system, human behavior and child development are my main interests. I would like to participate in the application of scientific knowledge in society and make it more accessible to all. In my free time, I enjoy dancing and traveling. I always enjoy new adventures, as long as they are as far away from spiders, ants and all the bugs as possible. I am a big fan of cake day!!  <br> 
