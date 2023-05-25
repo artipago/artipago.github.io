@@ -8,9 +8,10 @@ has_children: true
 Below some news about the team! <br> 
 
 ### 22nd of May 2023 - Presentation at Pint of Science
-Andrea presented (in French!!) some of the team's work about the connection between Neuroscience and Artificial Intelligence. The main idea was to show how the two fields can benefit from each other. Big thank to the <a href="https://blog.incognu.fr/">Association Incognu</a> for the great organization! <br>
-<img src="/assets/images/PoS01.jpg" width="500" height="500"> 
+Andrea presented (in French!!) some of the team's work about the connection between Neuroscience and Artificial Intelligence. The main idea was to show how the two fields can benefit from each other. Big thank to the <a href="https://blog.incognu.fr/">Association Incognu</a> for the great organization! <br> 
 <br>
+<img src="/assets/images/PoS01.jpg" width="500" height="500"> 
+
 <br> 
 
 ### May 2023 - A Traveling Waves Perspective on Temporal Binding
