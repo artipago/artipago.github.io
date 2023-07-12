@@ -7,10 +7,12 @@ has_children: true
 
 Below some news about the team! <br> 
 
+### 29th of June 2023 - IOP conference in Geneva
+Presentation of our <a href="https://elifesciences.org/articles/85035">latest work</a> on alpha waves and attention at the <a href="https://iop2023.com/">International Organization of Psychophysiology (IOP)</a>. It was great to be part of the Symposium on 'The role of ALpha Rhythm in Perception, Attention and Vigilance' with Prof. Alberto Zani, Susanna Lopez, David Pascucci and Niko Busch. <br> 
+<br> 
+
 ### 22nd of May 2023 - Presentation at Pint of Science
 Andrea presented (in French!!) some of the team's work about the connection between Neuroscience and Artificial Intelligence. The main idea was to show how the two fields can benefit from each other. Big thank to the <a href="https://blog.incognu.fr/">Association Incognu</a> for the great organization! <br> 
-<br>
-<img src="/assets/images/PoS01.jpg" width="500" height="500"> 
 
 <br> 
 

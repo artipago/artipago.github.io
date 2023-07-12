@@ -17,6 +17,7 @@ I have a background in neuroscience and neuropsychology. I worked as a research 
 
 ## Past team members 
 
+**Maeva Kurtz**, <ins>M2 student</ins>. <br> 
 **Can Pouliquen**, <ins>M2 student</ins>. Co-supervised with Rufin VanRullen.<br> 
 **Asmae Belmahi**, <ins>M2 student</ins>. <br> 
 **Nathan Gaubil**, <ins>M2 student</ins>. Co-supervised with Martin Giurfa.<br> 
