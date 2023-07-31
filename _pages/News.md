@@ -7,6 +7,10 @@ has_children: true
 
 Below some news about the team! <br> 
 
+### July 2023
+The team is growing! After Leslie and Bhavin, also Xiaoqi and Jakob joined the team to unveil the link between traveling waves and predictive coding. Check them out in the <a href="https://artipago.github.io/People//">people page</a>. <br> 
+<br> 
+
 ### 29th of June 2023 - IOP conference in Geneva
 Presentation of our <a href="https://elifesciences.org/articles/85035">latest work</a> on alpha waves and attention at the <a href="https://iop2023.com/">International Organization of Psychophysiology (IOP)</a>. It was great to be part of the Symposium on 'The role of ALpha Rhythm in Perception, Attention and Vigilance' with Prof. Alberto Zani, Susanna Lopez, David Pascucci and Niko Busch. <br> 
 <br> 
