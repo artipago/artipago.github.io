@@ -7,6 +7,11 @@ has_children: true
 
 Below some news about the team! <br> 
 
+### 24-27th of August 2023 - CCN2023 conference in Oxford
+As our regular, annual meeting, it was great to attend CCN in Oxford this year! Beside presenting <a href="https://2023.ccneuro.org/proceedings/0000414.pdf">our work</a> with Martin Giurfa's team about modeling honeybee learning in trace conditioning, I was particulalry glad to join the diversity lunch and the workshop on climate action. It's great that a conference dedicates some time for these topics, and it feels great to share and discuss these issues with other fellows in the community. Kudos and gratitudes to the organizers for putting all of this together!  <br> 
+<img src="/assets/images/ccn2023.jpg" width="500" height="500"> 
+<br> 
+
 ### July 2023
 The team is growing! After Leslie and Bhavin, also Xiaoqi and Jakob joined the team to unveil the link between traveling waves and predictive coding. Check them out in the <a href="https://artipago.github.io/People//">people page</a>. <br> 
 <br> 

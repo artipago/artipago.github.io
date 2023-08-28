@@ -20,3 +20,5 @@ In Japanese, the word ‘do’ means quite literally ‘way’, in the sense of 
 <br> 
 **It’s a journey, dare and have fun.** Often we fail big time, sometimes we tremendously succeed. Success sets the stones of our career, failure teaches us some valuable lessons. Like in the poem of Constantine Cavafy, I try not to be afraid of setting out for my Ithaca, knowing that eventually the ultimate prize is each moment of the journey itself.<br> 
 <br> 
+**Inclusion, and the great value of diversity.** Sometime given for granted, inclusion can be often overlooked. My best efforts are directed to create a safe space, where everyone feels welcome to speak up, join, participate and feel valued, irrespective of religion, gender, sexual orientation, ethnicity. Diversity and inclusion are powerful keys for our future! <br> 
+<br> 
