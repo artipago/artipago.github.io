@@ -10,7 +10,7 @@ Below some news about the team! <br>
 ### 24-27th of August 2023 - CCN2023 conference in Oxford
 As our regular, annual meeting, it was great to attend <a href="https://2023.ccneuro.org/index.php">CCN</a> in Oxford this year! Beside presenting <a href="https://2023.ccneuro.org/proceedings/0000414.pdf">our work</a> with Martin Giurfa's team about modeling honeybee learning in trace conditioning, I was particulalry glad to join the diversity lunch and the workshop on climate action. It's great that a conference dedicates some time for these topics, and it feels great to share and discuss these issues with other fellows in the community. Kudos and gratitudes to the <a href="https://2023.ccneuro.org/organizers.php">organizers</a> for putting all of this together! <br> 
 (in the image below, I placed one of the yellow pin... but which one?)
-<img src="/assets/images/ccn2023.jpg" width="300" height="400"> 
+<img src="/assets/images/ccn2023.jpg" width="320" height="400"> 
 <br> 
 
 ### July 2023
