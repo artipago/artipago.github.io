@@ -7,6 +7,14 @@ has_children: true
 
 Below some news about the team! <br> 
 
+### October 2023
+The team is growing again! Martina joined the team as a phd student in October, working on both computational and experimental projects on traveling waves and predictive coding. Check her out in the <a href="https://artipago.github.io/People//">people page</a>. <br> 
+<br> 
+
+### 19th of October 2023 - CuttingEEG talk in Lyon
+It was a great pleasure to join the <a href="https://cuttinggardens2023.org/">Cutting EEG garden</a> in Lyon for a nice workshop on Neural Communication, organized by Mathilde Bonnefond, with Matteo di Volo and Julien Vezoli as speakers. Beside the interesting scientific interactions, it was very inspiring to be part of one of the first distributed conference ever, alternating online events with 'live' ones. Minimizing CO2 emissions while connecting with the local community has never been easier! 
+<br> 
+
 ### 24-27th of August 2023 - CCN2023 conference in Oxford
 It was great to attend our regular, annual meeting at <a href="https://2023.ccneuro.org/index.php">CCN</a> in Oxford this year! Beside presenting <a href="https://2023.ccneuro.org/proceedings/0000414.pdf">our work</a> with Martin Giurfa's team about modeling honeybee learning in trace conditioning, I was particularly glad to join the diversity lunch, and the workshop on climate action. It's great that a conference dedicates some time for these topics, and it feels good to share and discuss these issues with other fellows in the community. Kudos and gratitudes to the <a href="https://2023.ccneuro.org/organizers.php">organizers</a> for putting all of this together! <br> 
 (in the image below, I placed one of the yellow pin... but which one?) <br> 
