@@ -7,6 +7,11 @@ has_children: true
 
 Below some news about the team! <br> 
 
+### 27th-28th November 2023
+It was great visiting the <a href="https://www.bcbl.eu/en">BCBL lab</a> in San Sebastian together with <a href="https://benediktzoefel.wixsite.com/home">Benedikt Zoefel</a>. It's always inspiring meeting new people and amazing scientists, and foster challenging discussions (special thank to Nicola Molinaro for challenging my views on Predictive Coding around a nice dinner!). A special thanks to Manuela Ruzzoli for her generosity and hospitality (and her amazing perseverance on a Sunday afternoon fighting against French train troubles!). Looking forward to meet again soon (maybe in Toulouse!). <br> 
+<img src="/assets/images/donostiaTrip.jpg" width="300" height="300"> 
+<br> 
+
 ### October 2023
 The team is growing again! Martina joined the team as a phd student in October, working on both computational and experimental projects on traveling waves and predictive coding. Check her out in the <a href="https://artipago.github.io/People//">people page</a>. <br> 
 <br> 
