@@ -7,6 +7,15 @@ has_children: true
 
 Below some news about the team! <br> 
 
+### 5th-7th Febrary 2024
+Great time in Zurich, at the <a href="https://scholar.google.com/citations?hl=de&user=uXKetd8AAAAJ&view_op=list_works&sortby=pubdate"> Paul Sauseng</a> team's retreat! It was great meeting all his amazing team, plus Vincenzo Romei and Daniela Gresch. Feeling particularly lucky and grateful to be able to talk Science and have fun with these amazing people! <br> 
+<img src="/assets/images/febZurichRetreat.jpg" width="300" height="300"> 
+<br> 
+
+### 17th Janaury 2024
+"Surfing Cognition like a traveling waves", Andrea managed to successfully defended his 'Habilitation à Diriger des Recherches' (HDR). Particularly thankful to the jury members Martin Vinck, Peggy Series and Frederic Chavane: it was very fruitful to exchange ideas and get inspiration for our projects from all of them. In case you are having troubles falling asleep tonight,  <a href="https://hal.science/tel-04403904/">here</a> the full manuscript summarising his previous and current research. <br> 
+<br> 
+
 ### 27th-28th November 2023
 It was great visiting the <a href="https://www.bcbl.eu/en">BCBL lab</a> in San Sebastian together with <a href="https://benediktzoefel.wixsite.com/home">Benedikt Zoefel</a>. It's always inspiring meeting new people and amazing scientists, and foster challenging discussions (special thank to Nicola Molinaro for challenging my views on Predictive Coding around a nice dinner). Another special thanks to Manuela Ruzzoli for her generosity and hospitality (and her amazing perseverance on a Sunday afternoon fighting against French train troubles). Looking forward to meet again soon (maybe in Toulouse..!). <br> 
 <img src="/assets/images/donostiaTrip.jpg" width="300" height="300"> 
