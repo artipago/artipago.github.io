@@ -11,15 +11,20 @@ has_children: true
 <img style="float: right;" src="/assets/images/LeslieRound.png" alt="People"  width="150" height="150">  **Leslie Marie-Louise**, <ins>Project Manager</ins>.
 I have a background in neuroscience and neuropsychology. I worked as a research assistant at the babylab of the École normale supérieure in Paris. I have always been fascinated by how the brain works. The neural system, human behavior and child development are my main interests. I would like to participate in the application of scientific knowledge in society and make it more accessible to all. In my free time, I enjoy dancing and traveling. I always enjoy new adventures, as long as they are as far away from spiders, ants and all the bugs as possible. I am a big fan of cake day!!  <br> 
 <br> 
-<img style="float: right;" src="/assets/images/XiaoqiRound.png" alt="People"  width="150" height="150">  **Xiaoqi Xu**, <ins>PostDoc</ins>. I am a post-doc working on computational models to explain the functional role of travelling waves from a Predictive Coding point of view. My PhD work at ISAE SUPAERO focused on using mathematical approaches to decode mental states from EEG signals in the context of brain-computer interfaces. Before that I studied pure mathematics at Université Paris-Saclay and artificial intelligence at Ecole normale supérieure Paris-Saclay. <br> 
-<br> 
+
 <img style="float: right;" src="/assets/images/jakobRound2.png" alt="People"  width="150" height="150">  **Jakob Schwenk**, <ins>PostDoc</ins>. Stitching together the brain’s space-time continuum - how is communication between brain areas (space) coordinated by local oscillations (time)! More specifically, how does the thalamo-cortical loop shape the dynamics of hierarchical processing. Approaching this through biologically plausible network models, building on my PhD work in experimental neurophysiology at the Neurophysics Lab in Marburg. In my free time working on real-world implementations of cross-frequency coupling between my left and right hand on the cello or the piano. <br> 
 <br> 
 <img style="float: right;" src="/assets/images/martinaCerchio.png" alt="People"  width="150" height="150">  **Martina Pasqualetti**, <ins>PhdStudent</ins>. I am a PhD student working on a Predictive Coding interpretation of travelling waves. My background studies in Neurosciences introduced me to cognitive sciences and the study of consciousness. The mind-body dualism blowed my mind so much that I decided to pursue a research career centred on the investigation of it.How can a well-organized mass of atoms and energy become aware of itself? Well, unfortunately I don’t know yet, but in the meanwhile I will take care of my mental health by growing my amazing indoor plant collection. <br> 
 <br> 
+**Damien Ricci**, <ins>M2 student, co-speruvised with Benedikt Zoefel </ins>. <br> 
+**Lena Brakha**, <ins>M1 student & research assistant</ins>. <br> 
+<br> 
+
 ## Past team members 
 
 <img style="float: right;" src="/assets/images/BhavinRound.png" alt="People"  width="150" height="150">  **Bhavin Choksi**, <ins>PostDoc</ins>. I am interested in understanding networks using a special pair of glasses: one which has a machine learning lens on one and neuroscience on the other. Specifically, I am interested in building networks that are more biological and in turn using them and their properties to get a peek into the human brain.  In my free time, I am just trying to wrap my head around the fact that cheese can also be eaten as a dessert. <br> 
+<br> 
+<img style="float: right;" src="/assets/images/XiaoqiRound.png" alt="People"  width="150" height="150">  **Xiaoqi Xu**, <ins>PostDoc</ins>. I am a post-doc working on computational models to explain the functional role of travelling waves from a Predictive Coding point of view. My PhD work at ISAE SUPAERO focused on using mathematical approaches to decode mental states from EEG signals in the context of brain-computer interfaces. Before that I studied pure mathematics at Université Paris-Saclay and artificial intelligence at Ecole normale supérieure Paris-Saclay. <br> 
 <br> 
 
 **Maeva Kurtz**, <ins>M2 student</ins>. <br> 

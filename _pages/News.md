@@ -7,6 +7,24 @@ has_children: true
 
 Below some news about the team! <br> 
 
+### 8th-10th July 2024
+It was amazing to meet my friend and colleague <a href="https://fis.uke.de/portal/en/persons/oleg-solopchuk(dafbfc62-73a8-427c-842e-8e35a5fbe3a6).html"> Oleg Solopchuk </a> in Hamburg, get a lot of feedback on our work, and visit the Jan Gläscher team! After doing the phd together in Bruxelles, Oleg and I found our scientific interests crossing again! Glad to be working together in this exciting collaboration. <br> 
+<img src="/assets/images/hamburgTrip.jpg" width="400" height="400"> 
+<br> 
+
+### 1st of July 2024
+Great workshop on « Imagerie mentale : évaluation et répercussions ». It was a great occasion to meet inspiring people and discover their works, besides thinking with them about how traveling waves may be affected by visual imagery. Special thank to Lucie BOuvet, Mehdi Menoussi, and Elodie Labeye for the invitation and organization!
+<br> 
+
+### 17th of May 2024
+Presenting our previous work at the CRNL in Lyon on machine learning and neuroscience, featuring -among others- Rufin VanRullen, Sabine Muzellec, Milad Mozafari and Bhavin Choksi: « Brain-inspired computer vision and AI-informed neuroscience» 
+<br> 
+
+### 15th-9th April 2024
+Extremely delighted to start a new collaboration with <a href="https://vincenzoromei.com/"> Vincenzo Romei</a> and his amazing team in Cesena! It was really a pleasure to meet dedicated and inspiring people with so many interests in common! And of course, it's always nice to go back 'home' in Italy... (the picture says it all!) <br> 
+<img src="/assets/images/cesenaPic.jpg" width="400" height="400"> 
+<br> 
+
 ### 5th-7th Febrary 2024
 Great time in Zurich, at the <a href="https://scholar.google.com/citations?hl=de&user=uXKetd8AAAAJ&view_op=list_works&sortby=pubdate"> Paul Sauseng</a> team's retreat! It was great meeting all his amazing team, plus Vincenzo Romei and Daniela Gresch. Feeling particularly lucky and grateful to be able to talk Science and have fun with these amazing people! <br> 
 <img src="/assets/images/febZurichRetreat.jpg" width="400" height="400"> 
