@@ -16,7 +16,7 @@ I have a background in neuroscience and neuropsychology. I worked as a research 
 <br> 
 <img style="float: right;" src="/assets/images/martinaCerchio.png" alt="People"  width="150" height="150">  **Martina Pasqualetti**, <ins>PhdStudent</ins>. I am a PhD student working on a Predictive Coding interpretation of travelling waves. My background studies in Neurosciences introduced me to cognitive sciences and the study of consciousness. The mind-body dualism blowed my mind so much that I decided to pursue a research career centred on the investigation of it.How can a well-organized mass of atoms and energy become aware of itself? Well, unfortunately I don’t know yet, but in the meanwhile I will take care of my mental health by growing my amazing indoor plant collection. <br> 
 <br> 
-**Damien Ricci**, <ins>M2 student, co-speruvised with Benedikt Zoefel </ins>. <br> 
+**Damien Ricci**, <ins>M2 student, co-supervised with Benedikt Zoefel </ins>. <br> 
 **Lena Brakha**, <ins>M1 student & research assistant</ins>. <br> 
 <br> 
 
