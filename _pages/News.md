@@ -7,10 +7,25 @@ has_children: true
 
 Below some news about the team! <br> 
 
+### 25th-29th August 2024
+Back to Cesena to join the <a href="https://www.sipf.it/CESENA-2024">SIPF</a> conference. Great occasion to catch up with collaborators and friends in Cesena! <br> 
+<img src="/assets/images/cesena.jpg" width="400" height="400"> 
+<br> 
+
+### 25th-29th August 2024
+Traveling to Aberdeen with Martina and Jakob to present our latest work! It was cool to discuss traveling waves at <a href="https://ecvp2024.abdn.ac.uk/">ECVP 2024</a> (we particularly enjoyed the whiskey tasting..!). <br> 
+<img src="/assets/images/aberdeen.jpg" width="400" height="400"> 
+<br> 
+
+### 6th-9th August 2024
+As every year, it was great to be back at <a href="https://2024.ccneuro.org/">CCN 2024</a> in Boston. It was also a great occasion to visit Matt Nassar and Thomas Serre labs in Providence! <br> 
+<img src="/assets/images/boston.jpg" width="400" height="400"> 
+<br> 
 ### 8th-10th July 2024
 It was amazing to meet my friend and colleague <a href="https://fis.uke.de/portal/en/persons/oleg-solopchuk(dafbfc62-73a8-427c-842e-8e35a5fbe3a6).html"> Oleg Solopchuk </a> in Hamburg, get a lot of feedback on our work, and visit the Jan Gläscher team! After doing the phd together in Bruxelles, Oleg and I found our scientific interests crossing again! Glad to be working together in this exciting collaboration. <br> 
 <img src="/assets/images/hamburgTrip.jpeg" width="400" height="400"> 
 <br> 
+
 
 ### 1st of July 2024
 Inspiring workshop on « Imagerie mentale : évaluation et répercussions ». It was a great occasion to meet inspiring people and discover their works, besides thinking with them about how traveling waves may be affected by visual imagery. Special thank to Lucie Bouvet, Mehdi Menoussi, and Elodie Labeye for the invitation and organization!
