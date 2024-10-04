@@ -7,6 +7,10 @@ has_children: true
 
 Below some news about the team! <br> 
 
+### October 2024
+The team is growing again! Welcome to Antoine Grimaldi, who joined the team starting October 2024! Check him out in the <a href="https://artipago.github.io/People//">people page</a>. <br> 
+<br> 
+
 ### 25th-29th August 2024
 Back to Cesena to join the <a href="https://www.sipf.it/CESENA-2024">SIPF</a> conference. Great occasion to catch up with collaborators and friends in Cesena! <br> 
 <img src="/assets/images/cesena.png" width="400" height="400"> 
