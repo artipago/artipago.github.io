@@ -8,7 +8,7 @@ has_children: true
 Below some news about the team! <br> 
 
 ### Traveling waves workshop
-Very excited to have host the second traveling waves workshop in Toulouse. We were so proud to have as speakers Laura Dugué (Université Cité Paris), Frederic Chavane (INT, Marseille), Matteo di Volo (Univeristé de Lyon), Mehdi Senoussi (CLLE, Toulouse), Gregor Thut (CerCo, Toulouse) and our team members Martina, Jakob and Andrea (CerCo, Toulouse). The workshop was enriched by two roundtable sessions about 'growing up in Science' and 'managing a research group'.  <br>  <img src="/assets/images/workshopWavesCut.png" width="400" height="300"> 
+Very excited to have host the second traveling waves workshop in Toulouse. We were so proud to have as speakers Laura Dugué (Université Cité Paris), Frederic Chavane (INT, Marseille), Matteo di Volo (Univeristé de Lyon), Mehdi Senoussi (CLLE, Toulouse), Gregor Thut (CerCo, Toulouse) and our team members Martina, Jakob and Andrea (CerCo, Toulouse). The workshop was enriched by two roundtable sessions about 'growing up in Science' and 'managing a research group'.  <br>  <img src="/assets/images/workshopWavesCut.jpg" width="400" height="300"> 
 <br> 
 
 ### ¡Jakob's new preprint is out!
