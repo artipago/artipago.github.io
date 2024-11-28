@@ -8,11 +8,11 @@ has_children: true
 Below some news about the team! <br> 
 
 ### Traveling waves workshop
-Very excited to have host the second traveling waves workshop in Toulouse. We were so proud to have as speakers Laura Dugué (Université Cité Paris), Frederic Chavane (INT, Marseille), Matteo di Volo (Univeristé de Lyon), Mehdi Senoussi (CLLE, Toulouse), Gregor Thut (CerCo, Toulouse) and our team members Martina, Jakob and Andrea (CerCo, Toulouse). The workshop was enriched by two roundtable sessions about 'growing up in Science' and 'managing a research group'.  <br>  <img src="/assets/images/workshopWavesCut.jpg" width="400" height="300"> 
+Very excited to have host the second traveling waves workshop in Toulouse. We were so proud to have as speakers Laura Dugué and Kirsten Petras (Université Cité Paris), Frederic Chavane (INT, Marseille), Matteo di Volo (Univeristé de Lyon), Mehdi Senoussi (CLLE, Toulouse), Gregor Thut (CerCo, Toulouse) and our team members Martina, Jakob and Andrea (CerCo, Toulouse). The workshop was enriched by two roundtable sessions about 'growing up in Science' and 'managing a research group'.  <br>  <img src="/assets/images/workshopWavesCut.png" width="400" height="400"> 
 <br> 
 
 ### ¡Jakob's new preprint is out!
-We are excited to present the latest work from Jakob: "a hierarchical multiscale model of forward and backward alpha-band traveling waves in the visual system". We present a physiologically plausible model that bridges the gap between scalp-level wave patterns to mean-field activity at the laminar level in the cortex. In addition to explaining previously published EEG results, our model makes key predictions to be tested in future experiments. Check this one <a href="https://www.biorxiv.org/content/10.1101/2024.11.15.623743v1.full.pdf">here</a>. <br> 
+We are excited to present the latest <a href="https://www.biorxiv.org/content/10.1101/2024.11.15.623743v1.full.pdf">work</a> from Jakob: "a hierarchical multiscale model of forward and backward alpha-band traveling waves in the visual system". We present a physiologically plausible model that bridges the gap between scalp-level wave patterns to mean-field activity at the laminar level in the cortex. In addition to explaining previously published EEG results, our model makes key predictions to be tested in future experiments. Check this one <a href="https://www.biorxiv.org/content/10.1101/2024.11.15.623743v1.full.pdf">here</a>. <br> 
 <br> 
 
 ### October 2024
