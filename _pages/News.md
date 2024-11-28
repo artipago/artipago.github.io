@@ -7,6 +7,14 @@ has_children: true
 
 Below some news about the team! <br> 
 
+### Traveling waves workshop
+Very excited to have host the second traveling waves workshop in Toulouse. We were so proud to have as speakers Laura Dugué (Université Cité Paris), Frederic Chavane (INT, Marseille), Matteo di Volo (Univeristé de Lyon), Mehdi Senoussi (CLLE, Toulouse), Gregor Thut (CerCo, Toulouse) and our team members Martina, Jakob and Andrea (CerCo, Toulouse). The workshop was enriched by two roundtable sessions about 'growing up in Science' and 'managing a research group'. <img src="/assets/images/workshopWaves - cut.png" width="400" height="400">  <br> 
+<br> 
+
+### New preprint out from Jakob!
+We are excited to present the latest work from Jakob: "a hierarchical multiscale model of forward and backward alpha-band traveling waves in the visual system". We present a physiologically plausible model that bridges the gap between scalp-level wave patterns to mean-field activity at the laminar level in the cortex. In addition to explaining previously published EEG results, our model makes key predictions to be tested in future experiments. Check this one <a href="https://www.biorxiv.org/content/10.1101/2024.11.15.623743v1.full.pdf">here</a>. <br> 
+<br> 
+
 ### October 2024
 The team is growing again! Welcome to Antoine Grimaldi, who joined the team starting October 2024! Check him out in the <a href="https://artipago.github.io/People//">people page</a>. <br> 
 <br> 
