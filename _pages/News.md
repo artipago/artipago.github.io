@@ -6,13 +6,21 @@ has_children: true
 ---
 
 Below some news about the team! <br> 
+### Featured paper in Journal of Neuroscience with Yifan Zeng and Paul Sauseng
+The great work of Yifan Zeng, in collaboration with Paul Sauseng, was selected as a <a href="https://www.jneurosci.org/content/44/50/e0532242024"> featured article</a>  in the Journal of Neuroscience. In this work, we investigated the relationship between traveling waves and visual working memory, disentangling the role of forward and backward alpha-waves. Learn more about it <a href="https://www.jneurosci.org/content/44/50/e0532242024"> here</a>. <br> 
+<br> 
+
+### Oscillatory brain waves workshop in Lausanne
+It was great to attend and present at the <a href="https://brain-waves-workshop.github.io/2024/"> oscillatory brain waves</a>  workshop in Lausanne, organized by David Pascucci and Maria Rigoni. The workshop was a great occasion to catch up on fantastic work from early career researcher. Looking forward for the second edition! <br> 
+<br> 
+
 
 ### Traveling waves workshop
 Very excited to have host the second traveling waves workshop in Toulouse. We were so proud to have as speakers Laura Dugué and Kirsten Petras (Université Cité Paris), Frederic Chavane (INT, Marseille), Matteo di Volo (Univeristé de Lyon), Mehdi Senoussi (CLLE, Toulouse), Gregor Thut (CerCo, Toulouse) and our team members Martina, Jakob and Andrea (CerCo, Toulouse). The workshop was enriched by two roundtable sessions about 'growing up in Science' and 'managing a research group'.  <br>  <img src="/assets/images/workshopWavesCut.png" width="400" height="400"> 
 <br> 
 
 ### ¡Jakob's new preprint is out!
-We are excited to present the latest <a href="https://www.biorxiv.org/content/10.1101/2024.11.15.623743v1.full.pdf">work</a> from Jakob: "a hierarchical multiscale model of forward and backward alpha-band traveling waves in the visual system". We present a physiologically plausible model that bridges the gap between scalp-level wave patterns to mean-field activity at the laminar level in the cortex. In addition to explaining previously published EEG results, our model makes key predictions to be tested in future experiments. Check this one <a href="https://www.biorxiv.org/content/10.1101/2024.11.15.623743v1.full.pdf">here</a>. <br> 
+We are excited to present the latest <a href="https://www.biorxiv.org/content/10.1101/2024.11.15.623743v1.full.pdf">work</a> from Jakob: "a hierarchical multiscale model of forward and backward alpha-band traveling waves in the visual system". We present a physiologically plausible model that bridges the gap between scalp-level wave patterns to mean-field activity at the laminar level in the cortex. In addition to explaining previously published EEG results, our model makes key predictions to be tested in future experiments. Check it out <a href="https://www.biorxiv.org/content/10.1101/2024.11.15.623743v1.full.pdf">here</a>. <br> 
 <br> 
 
 ### October 2024
