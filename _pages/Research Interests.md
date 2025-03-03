@@ -21,7 +21,12 @@ Abstract:
 
 ### Publications
 
-* **Alamia A.**, VanRullen R. (2023) “A travelling waves perspective on temporal binding”  <ins>Journal of Cognitive Neuroscience</ins> 1-9 <b>
+* **Alamia A.**, D Gordillo, E Chkonia, M Roinishvili, C Cappe, MH Herzog (2024) "Oscillatory traveling waves provide evidence for predictive coding abnormalities in schizophrenia" <ins>Biological psychiatry <b>
+* Y Zeng, P Sauseng, **Alamia A.** (2024) "Alpha Traveling Waves during Working Memory: Disentangling Bottom-Up Gating and Top-Down Gain Control"  <ins>Journal of Neuroscience</ins> 44 (50) <b>
+* DR Lyamzin, **Alamia A.**, M Abdolrahmani, R Aoki, A Benucci (2024) "Regularizing hyperparameters of interacting neural signals in the mouse cortex reflect states of arousal" <ins> Computational Biology 20 (10), e1012478 </ins> <b>
+* Jinwen Wei, **Alamia A.**, Ziqing Yao, Gan Huang, Linling Li, Zhen Liang, Li Zhang, Changsong Zhou, Zhenxi Song, Zhiguo Zhang (2024) "State-dependent tACS effects reveal the potential causal role of prestimulus alpha traveling waves in visual contrast detection" <ins> Journal of Neuroscience</ins> 44 (27)  <b>
+* P Matta, D Glories, **Alamia A.**, R Baurès, J Duclay (2024) "Mind over muscle? Time manipulation improves physical performance by slowing down the neuromuscular fatigue accumulation" <ins> Psychophysiology </ins> 61 (4), e14487  <b>
+* **Alamia A.**, VanRullen R. (2024) “A travelling waves perspective on temporal binding”  <ins>Journal of Cognitive Neuroscience</ins> 1-9 <b> 
 * **Alamia A.**, Lucie Terral, Malo Renaud D’ambra., VanRullen R. (2023) “Distinct role of forward and backward alpha-band waves in spatial attention”  <ins>Elife</ins> 12, e85035 <b>
 * **Alamia A.**, Mozafari M., Choksi M., VanRullen R. (2023) “On the role of feedback in visual processing: a predictive coding perspective” <ins>Neural Networks</ins> 157, 280-287  <b>
 * Vaishnav M., Cadene R., **Alamia A.**, D Linsley, VanRullen R., Serre T.(2022) “Understanding the computational demands underlying visual reasoning” <ins>Neural Computation</ins>  <b>
