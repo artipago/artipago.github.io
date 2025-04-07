@@ -13,7 +13,7 @@ On The 25-25 of March took place <a href="https://fasteeg.sciencesconf.org/"> TE
 <br> 
 
 ### Semaine du Cerveau
-Thanks to the organizers of the 'Brain's awareness week' for letting Benedikt Zoefel and Andrea Alamia presenting (in French!) about brain oscillations to the general public. It was quite exciting to carry out this event at th at the main library in Toulouse. After some theoretical introduction, participants could try and visualize their own brain waves with a protable EEG system. Looking forward to next year event! <br> 
+Thanks to the organizers of the 'Brain's awareness week' for letting Benedikt Zoefel and Andrea Alamia presenting (in French!) about brain oscillations to the general public. It was quite exciting to carry out this event at the main library in Toulouse. After some theoretical introduction, participants could try and visualize their own brain waves with a protable EEG system. Looking forward to next year event! <br> 
 <img src="/assets/images/semaineDuCerveau.png" width="400" height="400"> 
 <br> 
 
