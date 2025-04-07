@@ -6,6 +6,18 @@ has_children: true
 ---
 
 Below some news about the team! <br> 
+
+### TEMPOMEGA: Caen's workshop on EEG data analysis
+On The 25-25 of March took place <a href="https://fasteeg.sciencesconf.org/"> TEMPOMEGA</a>,  the first workshop on the processing of M/EEG data in Caen, organized by Thomas Hinault and supported by the FAsT (French Association for TIMING). Very excited to have joined this collaborative effort, providing a theoretical overview and a hands-on session on traveling waves methods.  <br> 
+<img src="/assets/images/caenWorkshop.png" width="400" height="400"> 
+<br> 
+
+### Semaine du Cerveau
+Thanks to the organizers of the 'Brain's awareness week' for letting Benedikt Zoefel and Andrea Alamia presenting (in French!) about brain oscillations to the general public. It was quite exciting to carry out this event at th at the main library in Toulouse. After some theoretical introduction, participants could try and visualize their own brain waves with a protable EEG system. Looking forward to next year event! <br> 
+<img src="/assets/images/semaineDuCerveau.png" width="400" height="400"> 
+<br> 
+
+
 ### Featured paper in Journal of Neuroscience with Yifan Zeng and Paul Sauseng
 The great work of Yifan Zeng, in collaboration with Paul Sauseng, was selected as a <a href="https://www.jneurosci.org/content/44/50/e0532242024"> featured article</a>  in the Journal of Neuroscience. In this work, we investigated the relationship between traveling waves and visual working memory, disentangling the role of forward and backward alpha-waves. Learn more about it <a href="https://www.jneurosci.org/content/44/50/e0532242024"> here</a>. <br> 
 <br> 
