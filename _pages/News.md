@@ -8,7 +8,7 @@ has_children: true
 Below some news about the team! <br> 
 
 ### 20th of May 2025 - Presentation at Pint of Science
-It's again <a href="https://pintofscience.fr/events/toulouse/">Pint Of Science</a> time! Antoine Grimaldi gave a very clear and interesting presentation about perception, visual illusion and hallucinations. With very clear (and funny) examples, Antoine explained how his work on belief propagation and circular inference applies to model and investigate hallucinations and perception in healthy humans as well as in schizophrenia. A big thank to the <a href="https://www.univ-tlse3.fr/vie-associative-universitaire/brainbow/">Brainbow</a> association for the organization! <br> 
+It's again <a href="https://pintofscience.fr/events/toulouse/">Pint Of Science</a> time! Antoine Grimaldi gave a very clear and interesting presentation about perception, visual illusion and hallucinations. With very clear (and funny) examples, Antoine explained how his work on belief propagation and circular inference explores hallucinations and perception in healthy humans as well as in schizophrenia. A big thank to the <a href="https://www.univ-tlse3.fr/vie-associative-universitaire/brainbow/">Brainbow</a> association for the organization! <br> 
 <img src="/assets/images/antoinePOS.png" width="400" height="400"> 
 <br> 
 
