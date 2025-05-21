@@ -7,6 +7,11 @@ has_children: true
 
 Below some news about the team! <br> 
 
+### 20th of May 2025 - Presentation at Pint of Science
+It's again <a href="https://pintofscience.fr/events/toulouse/">Pint Of Science</a> time! Antoine Grimaldi gave a very clear and interesting presentation about perception, visual illusion and hallucinations. With very clear (and funny) examples, Antoine explained how his work on belief propagation and circular inference applies to model and investigate hallucinations and perception in healthy humans as well as in schizophrenia. A big thank to the <a href="https://www.univ-tlse3.fr/vie-associative-universitaire/brainbow/">Brainbow</a> association for the organization! <br> 
+<img src="/assets/images/antoinePOS.png" width="400" height="400"> 
+<br> 
+
 ### TEMPOMEGA: Caen's workshop on EEG data analysis
 On The 25-25 of March took place <a href="https://fasteeg.sciencesconf.org/"> TEMPOMEGA</a>,  the first workshop on the processing of M/EEG data in Caen, organized by Thomas Hinault and supported by the FAsT (French Association for TIMING). Very excited to have joined this collaborative effort, providing a theoretical overview and a hands-on session on traveling waves methods.  <br> 
 <img src="/assets/images/caenWorkshop.png" width="400" height="400"> 
