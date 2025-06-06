@@ -29,6 +29,13 @@ I have a background in neuroscience and neuropsychology. I worked as a research 
 <img style="float: right;" src="/assets/images/emiliePic.png" alt="People"  width="150" height="150">  **Emilie Meersseman**, <ins>Master 1 intern</ins>. With a (little) background in medicine and currently pursuing a master's degree in applied mathematics, I’ve found a unique intersection of both fields in neuroscience. I’m particularly fascinated by how machine learning algorithms can help us unravel the complexities of the brain — it’s truly mind-blowing to see how computation illuminates cognition. My current work focuses on the functional origins of brain oscillations, exploring the hypothesis that both metabolic constraints and statistical regularities in our environment shape neural functions. Outside of academics, I enjoy painting, hiking, and discovering new places.  <br> 
 <br> 
 
+<img style="float: right;" src="/assets/images/ajinkyaPic.png" alt="People"  width="150" height="150">  **Ajinkya Ranshur**, <ins>Master 2 intern</ins>. Funny, smart, and quick are typical characteristics we used to describe people that we admire, but what gives them these characteristics? It's the signals in our brain. My long-term goal is to understand how these signals work and how we can extend some of their principles to artificial intelligence. Currently, my project with Andrea revolves around understanding the effect of predictive coding on machine learning models and how we can use their priors to make them perceive visual illusions. Outside work, I often play basketball or go on long runs to maintain my health. Aside from all this, I also like discussing philosophies varying from optimism to nihilism to pessimism and their various interpretations, so feel free to bug me with weird questions, and I would be happy to chat about it over tea.  <br> 
+<br> 
+
+
+
+
+
 ## Past team members 
 
 <img style="float: right;" src="/assets/images/BhavinRound.png" alt="People"  width="150" height="150">  **Bhavin Choksi**, <ins>PostDoc</ins>. I am interested in understanding networks using a special pair of glasses: one which has a machine learning lens on one and neuroscience on the other. Specifically, I am interested in building networks that are more biological and in turn using them and their properties to get a peek into the human brain.  In my free time, I am just trying to wrap my head around the fact that cheese can also be eaten as a dessert. <br> 
