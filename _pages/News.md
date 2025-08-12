@@ -6,6 +6,15 @@ has_children: true
 ---
 
 Below some news about the team! <br> 
+### July 2025 - Computational Psychiatry Conference in Tubingen 
+At the third Computational Psychiatry Conference in Tubingen, Andrea presented the work on alpha-band traveling waves in schizophrenia (<a href="https://www.sciencedirect.com/science/article/pii/S0006322324017827/">here</a> the paper), which was also given a 5 minutes spotlight talk. It was inspiring to dive into this new, exciting field for the team future works! <br> 
+<img src="/assets/images/IMG_20250713_183922.jpg" width="400" height="400"> 
+<br> 
+
+### June-July 2025 - Machine Learning Summer School (MLSS) in Senegal 
+Antoine and Andrea attended the 2 weeks summerschool in Mbour, Senegal. It was a fantastic experience to meet colleagues from the African continent, and learn so much about Machine Learning and AI, but also the rich culture of Senegal!   <br> 
+<img src="/assets/images/senegalMain.jpg" width="400" height="400"> 
+<br> 
 
 ### 20th of May 2025 - Presentation at Pint of Science
 It's again <a href="https://pintofscience.fr/events/toulouse/">Pint Of Science</a> time! Antoine Grimaldi gave a very clear and interesting presentation about perception, visual illusion and hallucinations. With very clear (and funny) examples, Antoine explained how his work on belief propagation and circular inference explores hallucinations and perception in healthy humans as well as in schizophrenia. A big thank to the <a href="https://www.univ-tlse3.fr/vie-associative-universitaire/brainbow/">Brainbow</a> association for the organization! <br> 
