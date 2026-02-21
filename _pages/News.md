@@ -6,6 +6,10 @@ has_children: true
 ---
 
 Below some news about the team! <br> 
+### September 2025 - ICON Conference in Porto 
+Martina Pasqualetti and Jakob Schewnk presented their work in two posters at the International Conference on Cognitive Neuroscience (ICON)! Of particular interest, besides the great science, was the social activity and the exploration of the wine scene in Portugal! <br> 
+<img src="/assets/images/portoConference.png" width="400" height="400"> 
+<br> 
 ### July 2025 - Computational Psychiatry Conference in Tubingen 
 At the third Computational Psychiatry Conference in Tubingen, Andrea presented the work on alpha-band traveling waves in schizophrenia (<a href="https://www.sciencedirect.com/science/article/pii/S0006322324017827/">here</a> the paper), which was also given a 5 minutes spotlight talk. It was inspiring to dive into this new, exciting field for the team future works! <br> 
 <img src="/assets/images/IMG_20250713_183922.jpg" width="400" height="400"> 
