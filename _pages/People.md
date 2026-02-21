@@ -50,6 +50,7 @@ During my free time, I seek sensations through kitesurfing and freeskiing, try t
 <img style="float: right;" src="/assets/images/MariemCircle.png" alt="People"  width="150" height="150">  **Mariem Younssi**, <ins>Research Assistant</ins>. I hold a Master’s in experimental psychology and am passionate about understanding the brain. Currently, I’m focused on developing skills in computational modeling and neural imaging to explore the brain's complex mechanisms. My particular interest lies in studying the computational and neural mechanisms supporting inference and prediction in perception and decision-making. When I'm not immersed in exciting research projects, you’ll likely find me underwater, freediving — that’s when my brain enters a low-energy state. <br> 
 <br> 
 
+**Morgane Huet**, <ins>M1 student </ins>. <br> 
 **Damien Ricci**, <ins>M2 student, co-supervised with Benedikt Zoefel </ins>. <br> 
 **Lena Brakha**, <ins>M1 student & research assistant</ins>. <br> 
 **Maeva Kurtz**, <ins>M2 student</ins>. <br> 
