@@ -24,8 +24,12 @@ I have a background in neuroscience and neuropsychology. I worked as a research 
 <br> 
 
 
+<img style="float: right;" src="/assets/images/dojinCircle.png" alt="People"  width="150" height="150">  **Dojin Heo**, <ins>visiting PhdStudent</ins>. (supervised by <a href="https://bme.unist.ac.kr/eng/sung-phil-kim/"> Prof. Sung-Phil Kim</a>). I’m a PhD student in Biomedical Engineering at UNIST, supervised by Prof. Sung-Phil Kim. Currently, I’m a visiting student at CerCo, where I seek to broaden my academic horizons and gain diverse research experiences. I believe brain oscillations are complex “tapestries” of thought. My research specifically focuses on traveling waves, which are complex spatiotemporal patterns that I believe hold significantly greater decoding potential. Outside of the lab, I recharge by sharing sweets (such as cakes and chocolate!) and chatting with friends, or simply playing a variety of games. Although I am a bit reserved, I am always open to and excited by new challenges!  <br> 
+<br> 
+
 <img style="float: right;" src="/assets/images/ajinkyaPic.png" alt="People"  width="150" height="150">  **Ajinkya Ranshur**, <ins>Master 2 intern</ins>. Funny, smart, and quick are typical characteristics we used to describe people that we admire, but what gives them these characteristics? It's the signals in our brain. My long-term goal is to understand how these signals work and how we can extend some of their principles to artificial intelligence. Currently, my project with Andrea revolves around understanding the effect of predictive coding on machine learning models and how we can use their priors to make them perceive visual illusions. Outside work, I often play basketball or go on long runs to maintain my health. Aside from all this, I also like discussing philosophies varying from optimism to nihilism to pessimism and their various interpretations, so feel free to bug me with weird questions, and I would be happy to chat about it over tea.  <br> 
 <br> 
+
 
 
 <img style="float: right;" src="/assets/images/sophieCircled.png" alt="People"  width="150" height="150">  **Sophie Lecroart**, <ins>Master 2 intern</ins>. I am a master’s student in cognitive psychology; my main interests lie in psychopathology from a multidisciplinary perspective : social, neurocognitive, and clinical. I am currently working on predictive processing and its applications across different fields, aiming to better understand the links between the various sciences of the brain and to gain a deeper understanding of human functioning.

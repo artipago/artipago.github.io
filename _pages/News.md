@@ -6,6 +6,19 @@ has_children: true
 ---
 
 Below some news about the team! <br> 
+### New paper out from Jakob Schwenk!
+New <a href="https://www.sciencedirect.com/science/article/pii/S0165027026001366" > paper</a> out in Journal of Neuroscience method by Jakob Schwenk, on a new method to quantify Traveling waves using spherical phase fitting! <br> 
+<br> 
+
+### Welcome to Dojin
+We welcome in the team <a href="https://www.unist-bci.com/graduate-students/dojin-heo" > Dojin Heo</a>, a graduate student in biomedical engineering from UNIST, in Korea, where she works in the BCILAB. She joins our team for a 8 months to apply decoding techniques to EEG recordings and traveling waves. Welcome aboard! <br> 
+<br> 
+
+
+### Pint of Science 2026
+Presenting at the 2026 <a href="https://pintofscience.fr/event/delire-cerveau-vecu-and-dialogue-des-sciences/" > Pint of Science</a> festival was a real highlight. In Délire : cerveau, vécu & dialogue des sciences, philosopher and psychiatrist Tudi Gozé and I explored delusion through both clinical and cognitive lenses, making the case for a radically interdisciplinary approach to the future of psychiatry. <br> 
+<br> 
+
 ### September 2025 - ICON Conference in Porto 
 Martina Pasqualetti and Jakob Schewnk presented their work in two posters at the International Conference on Cognitive Neuroscience (ICON)! Of particular interest, besides the great science, was the social activity and the exploration of the wine scene in Portugal! <br> 
 <img src="/assets/images/portoConference.png" width="300" height="300"> 
