@@ -6,6 +6,14 @@ has_children: true
 ---
 
 Below some news about the team! <br> 
+
+### The brain waves... at France Inter
+Together with Prof. Laura Dugué, we had fun chatting with Christophe Galfard and Maxime Chattam about brain oscillations! If you are interested in listening to the episode (in French), it's  <a href="https://www.radiofrance.fr/franceinter/podcasts/big-bang/big-bang-du-samedi-23-mai-2026-8320304" > here</a> ! <br> 
+<img src="/assets/images/radioEpisode.jpg" width="300" height="300"> 
+<br> 
+<br> 
+
+
 ### New paper out from Jakob Schwenk!
 New <a href="https://www.sciencedirect.com/science/article/pii/S0165027026001366" > paper</a> out in Journal of Neuroscience method by Jakob Schwenk, on a new method to quantify Traveling waves using spherical phase fitting! <br> 
 <br> 
