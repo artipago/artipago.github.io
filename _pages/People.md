@@ -39,6 +39,9 @@ I have a background in neuroscience and neuropsychology. I worked as a research 
  <img style="float: right;" src="/assets/images/quentinCircle.png" alt="People"  width="150" height="150"> **Quentin Guardia**, <ins>Master 2 intern</ins> (cosupervised with Romain Hacquet). Does the world as we perceive it in everyday life reflect reality? Certain experiences profoundly alter our relationship to the world. This is the case for near-death experiences and states induced by psychedelics, topics that I have had the opportunity to explore during my internships. Coming from a background in computer science, I went on to pursue a master's degree in neuroscience in order to better understand the neural mechanisms underlying altered states of consciousness. This year, I am completing my internship under the supervision of Andrea, with the aim of studying the subacute effects of psychedelic use and of meditation practice. As I enjoy exploring the unknown, I practice caving in the Pyrenees. I also enjoy badminton as a more conventional activity !  <br> 
 <br> 
 
+ <img style="float: right;" src="/assets/images/pierpaoloPhoto.png" alt="People"  width="150" height="150"> **Pierpaolo Felicetti**, <ins>Master 2 intern</ins> As a neuropsychology student, I'm fascinated by the neural correlates of cognition, particularly attention and visual perception. Two questions drive my research: how can we use EEG to track attention and its lapses over time, and what can the autonomic nervous system tell us about these states? Under the supervision of Andrea, my project looks for answers by combining brain and gastric rhythms. Away from the lab, I play basketball, follow anything related to watches and watchmaking (especially Japanese ones), and recently took my first steps in bouldering here in Toulouse.  <br> 
+<br> 
+
 
 ## Past team members 
 

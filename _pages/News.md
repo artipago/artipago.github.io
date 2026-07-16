@@ -9,7 +9,7 @@ Below some news about the team! <br>
 
 ### Presenting at FENS2026
 Antoine and Andrea presented two posters at Fens2026, in Barcellona! Antoine presented a poster about 'Optimal Transport Theory to extract Spiking Motifs', and Andrea presented his work with about "Disentangling neural traveling waves from causal information flow". Both posters were in collaboration with Martin Vinck, who also presented a poster on new methods to quantify Traveling Waves. <br> 
-<img src="/assets/images/FENS2026.png" width="300" height="300"> 
+<img src="/assets/images/FENS2026.png" width="350" height="350"> 
 <br> 
 <br> 
 
