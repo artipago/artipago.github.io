@@ -7,6 +7,12 @@ has_children: true
 
 Below some news about the team! <br> 
 
+### Presenting at FENS2026
+Antoine and Andrea presented two posters at Fens2026, in Barcellona! Antoine presented a poster about 'Optimal Transport Theory to extract Spiking Motifs', and Andrea presented his work with about "Disentangling neural traveling waves from causal information flow". Both posters were in collaboration with Martin Vinck, who also presented a poster on new methods to quantify Traveling Waves. <br> 
+<img src="/assets/images/FENS2026.png" width="300" height="300"> 
+<br> 
+<br> 
+
 ### The brain waves... at France Inter
 Together with Prof. Laura Dugué, we had fun chatting with Christophe Galfard and Maxime Chattam about brain oscillations! If you are interested in listening to the episode (in French), it's  <a href="https://www.radiofrance.fr/franceinter/podcasts/big-bang/big-bang-du-samedi-23-mai-2026-8320304" > here</a>.  <br> 
 <img src="/assets/images/radioEpisode.jpg" width="300" height="300"> 
